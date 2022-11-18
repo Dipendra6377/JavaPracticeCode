@@ -30,7 +30,7 @@ public class Arrays_08_OPTIMIZATION_Medium_Row_with_max_1s {
 
 
         //TIME COMPLEXITY  O(M+N)
-        int row=0;
+        int row=-1;
         int column=m-1;
 
         for(int i=0;i<n;i++){
